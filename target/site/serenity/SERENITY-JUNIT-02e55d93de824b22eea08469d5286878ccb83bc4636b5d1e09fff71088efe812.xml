@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.gorest.crudtests.UsersDataDrivenTest" skipped="0" tests="25" time="16.02" timestamp="2023-01-10T21:58:10.719Z[Europe/London]"><testcase classname="com.gorest.crudtests.UsersDataDrivenTest" name="Data Driven test for adding multiple bookings to the application"/></testsuite>
